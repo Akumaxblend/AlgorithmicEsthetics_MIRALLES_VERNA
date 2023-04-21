@@ -2,6 +2,10 @@ Lien du github :
 
 	https://github.com/Akumaxblend/AlgorithmicEsthetics_MIRALLES_VERNA.git
 
+Lien P5 editor : 
+
+	https://editor.p5js.org/Maxime_VERNA/sketches/PeX5TSWqF
+	
 Justification du design : 
 
 	Premièrement, notre design bicolore sépare les mots "bons" pour l'environnement et les mots "mauvais" pour celui-ci. 
