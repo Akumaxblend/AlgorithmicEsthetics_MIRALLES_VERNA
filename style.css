@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#badButton{
+  
+  color: rgb(160,130,130);
+  border-color: rgb(160,130,130);
+  background-color: rgb(51,51,51);
+  border-radius:6px;
+  border-style:solid;
+  
+}
+
+#goodButton{
+  
+  color: rgb(180,250,70);
+  border-color: rgb(180,250,70);
+  background-color: rgb(51,51,51);
+  border-radius:6px;
+  border-style:solid;
+  
+}
